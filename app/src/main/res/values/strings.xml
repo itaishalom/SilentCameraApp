@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmilingApp</string>
+    <string name="ok">Ok</string>
+    <string name="permission_requested_message">Please allow the permission at the following page</string>
+    <string name="alert_dialog_Permission_Request">Permission required</string>
+    <string name="restart">Restart</string>
+</resources>
